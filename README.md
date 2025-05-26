@@ -14,11 +14,10 @@ This project highlights my expertise in:
 
 * 🧠 **AI Solution Architecture:** Designing robust, scalable, and maintainable AI systems.
 * ☁️ **AWS Cloud Services:** Utilizing a suite of AWS services including Amazon Bedrock (for Generative AI), Neptune (for graph databases), Glue (for ETL), Lambda (for serverless compute), Step Functions (for workflow orchestration), S3 (for data storage), and Textract (for document analysis).
-* 🤖 **LLMs & GraphRAG:** Implementing Large Language Models with Retrieval Augmented Generation over knowledge graphs for intelligent conversational experiences.
+* 🤖 **LLMs, GraphRAG & External System Integration:** Implementing Large Language Models with Retrieval Augmented Generation (GraphRAG) over knowledge graphs, and leveraging **Model Context Protocol (MCP)** for enabling LLM communication with external tools and services.
 * 📊 **Data Engineering:** Architecting complex data ingestion pipelines and knowledge graph construction.
-* 🤝 **Agentic Design:** Conceptualizing agentic systems for proactive and personalized user assistance.
-* 📐 **Modeling & Documentation:** Employing C4 modeling with Structurizr for clear architectural visualization and comprehensive project documentation (a key deliverable itself!).
-* 💡 **Key Concepts:** Showcasing Minimum Credible Product (MCP) thinking and advanced AI patterns.
+* 🤝 **Agentic Design:** Conceptualizing agentic systems for proactive and personalized user assistance, where MCP facilitates agent interactions.
+* 📐 **Modeling & Documentation:** Employing C4 modeling with Structurizr for clear architectural visualization and comprehensive project documentation.
 
 This repository provides an in-depth look at the design considerations, architectural decisions, and technological components involved in building a sophisticated AI-driven platform.
 
